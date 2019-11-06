@@ -743,7 +743,7 @@
 
 	#hps {
 		margin-top: -50px;
-		width: 120px;
+		/* width: 120px; */
 		margin: auto;
 		font-family: poppinsr;
 	}
