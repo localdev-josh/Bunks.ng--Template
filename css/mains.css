@@ -46,7 +46,7 @@
 		box-sizing: border-box;
 	}
 
-	html,
+	/* html,
 	body {
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
@@ -56,7 +56,7 @@
 		color: #777777;
 		background-color: #fff;
 		overflow-x: hidden !important
-	}
+	} */
 
 	html {
 		box-sizing: border-box;
